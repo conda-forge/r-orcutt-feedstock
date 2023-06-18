@@ -1,11 +1,11 @@
-About r-orcutt
-==============
+About r-orcutt-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orcutt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=orcutt
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orcutt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Solve first order autocorrelation problems using an iterative method. This procedure estimates both autocorrelation and beta coefficients recursively until we reach the convergence (8th decimal as default). The residuals are computed after estimating Beta using EGLS approach and Rho is estimated using the previous residuals.
 
